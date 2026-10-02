@@ -16,7 +16,7 @@ AI/NLP researcher completing a Ph.D. in Computer Science at the University of Wa
 Adapting pretrained large language models to Urdu through **tokenizer replacement, continual pretraining, and knowledge distillation**.  
 [View Repository](https://github.com/zainali93/Markhor)
 
-### 🌐 Urdu Fake News &mdash; A Domain Adaptation approach 
+### 📰 Urdu Fake News &mdash; A Domain Adaptation approach 
 Domain-adaptive pretraining of multilingual language models for **Urdu fake news classification**.  
 [View Repository](https://github.com/zainali93/DomainAdaptation) 
 
