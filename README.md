@@ -1,7 +1,6 @@
 # Muhammad Zain Ali
 
-AI/NLP researcher and Doctoral Assistant completing a Ph.D. in Computer Science at the University of Waikato,
-specializing in large language models (LLMs), low-resource and multilingual NLP, and misinformation detection. Published at leading international venues, including ACL and ICONIP, with experience spanning academic research, teaching, and industry NLP development. 
+AI/NLP researcher completing a Ph.D. in Computer Science at the University of Waikato, specializing in large language models (LLMs), low-resource and multilingual NLP, and misinformation detection. Published at leading international venues, including ACL and ICONIP, with experience spanning academic research, teaching, and industry NLP development.
 
 ## Research Interests
 
