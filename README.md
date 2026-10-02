@@ -12,31 +12,27 @@ I am completing my PhD in Computer Science at the University of Waikato, New Zea
 - Misinformation & Machine-Generated Text Detection
 - Model Adaptation & Evaluation
 
-## Featured Research
+## 🔬 Featured Research
 
-### Markhor
-A framework for adapting pretrained large language models to Urdu through complete tokenizer replacement, continual pretraining, and knowledge distillation.
+### 🐐 Markhor
+Adapting pretrained large language models to Urdu through **tokenizer replacement, continual pretraining, and knowledge distillation**.  
+[Repository](https://github.com/zainali93/Markhor) · *AACL-IJCNLP 2026 Findings*
 
-**[Repository](https://github.com/zainali93/Markhor)**
+### 🌐 Urdu Fake News &emdash; A Domain Adaptation approach 
+Domain-adaptive pretraining of multilingual language models for **Urdu fake news classification**.  
+[Repository](https://github.com/zainali93/DomainAdaptation) · [Paper](https://arxiv.org/abs/2512.22778) · *ICONIP 2026*
 
-### Urdu Fake News — Domain Adaptation
-Domain-adaptive pretraining of multilingual language models for fake news classification in Urdu.
+### 🤖 Human & Machine-Authored Fake News Detection
+Joint detection of **content veracity and human/machine authorship** in Urdu news.  
+[Repository](https://github.com/zainali93/UrduHMFND2024) · [Paper](https://aclanthology.org/2025.acl-long.170/) · *ACL 2025*
 
-**[Repository](https://github.com/zainali93/DomainAdaptation)**
+### 🎯 Stance Detection
+Context-aware stance detection using **cascaded Siamese networks with attention mechanisms**.  
+[Repository](https://github.com/zainali93/StanceDetection) · [Paper](https://link.springer.com/chapter/10.1007/978-981-96-6599-0_26) · *ICONIP 2024*
 
-### Human & Machine-Authored Fake News Detection
-Detection of human- and machine-authored fake news in Urdu, jointly considering content veracity and authorship.
+## 🔗 Connect
 
-**[Repository](https://github.com/zainali93/UrduHMFND2024)**
-
-### Stance Detection
-Context-aware stance detection using cascaded Siamese networks with attention mechanisms.
-
-**[Repository](https://github.com/zainali93/StanceDetection)**
-
-## Connect
-
-[Website](https://zainali93.github.io) ·
-[Google Scholar](https://scholar.google.com/citations?user=7PVw4o0AAAAJ&hl=en&oi=ao) ·
-[LinkedIn](https://www.linkedin.com/in/zainali1993/) ·
-[ORCID](https://orcid.org/0000-0003-2558-1772)
+[🌐 Website](https://zainali93.github.io) ·
+[🎓 Google Scholar](https://scholar.google.com/citations?user=7PVw4o0AAAAJ&hl=en&oi=ao) ·
+[💼 LinkedIn](https://www.linkedin.com/in/zainali1993/) ·
+[🆔 ORCID](https://orcid.org/0000-0003-2558-1772)
