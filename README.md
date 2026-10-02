@@ -18,7 +18,7 @@ I am completing my PhD in Computer Science at the University of Waikato, New Zea
 Adapting pretrained large language models to Urdu through **tokenizer replacement, continual pretraining, and knowledge distillation**.  
 [Repository](https://github.com/zainali93/Markhor) · *AACL-IJCNLP 2026 Findings*
 
-### 🌐 Urdu Fake News &emdash; A Domain Adaptation approach 
+### 🌐 Urdu Fake News &endash; A Domain Adaptation approach 
 Domain-adaptive pretraining of multilingual language models for **Urdu fake news classification**.  
 [Repository](https://github.com/zainali93/DomainAdaptation) · [Paper](https://arxiv.org/abs/2512.22778) · *ICONIP 2026*
 
